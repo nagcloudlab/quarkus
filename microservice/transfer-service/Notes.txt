@@ -1,43 +1,11 @@
 
 
 
-  health check
-  -----------------
-  
-  	- liveness
-  	- readiness
-  	
-  	
-  fault tolerant
-  ----------------- 	
-  
-  	- Timeout
-  	- Fallback
-  	- Retry
-  	- circuit-breaker
-  	- Asynchrnonus
-  	- BulkHead
- 
- 
- metrics
- --------------
- 
- openapi
- ---------------
- 
- Open Tracing Tracing
- ---------------------
- 
- RestClient
- -------------
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+==>custom config sources
+
+=> System properties
+
+=> Envi variable
+
+=> application.properties
+

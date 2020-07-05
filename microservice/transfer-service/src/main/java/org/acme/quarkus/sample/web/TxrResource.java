@@ -10,6 +10,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 import org.acme.quarkus.sample.service.TxrService;
+import org.eclipse.microprofile.config.inject.ConfigProperty;
 
 
 @Path("/api/txr")
@@ -17,6 +18,9 @@ import org.acme.quarkus.sample.service.TxrService;
 @Produces(MediaType.APPLICATION_JSON)
 public class TxrResource {
 
+	@ConfigProperty(name = "txr.type",defaultValue = "NEFT")
+	String txrType;
+	
 	@Inject
 	TxrService txrService;
 
