@@ -1,7 +1,0 @@
-/Users/nag/Desktop/play-here/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/Hero.java
-/Users/nag/Desktop/play-here/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/health/DatabaseConnectionHealthCheck.java
-/Users/nag/Desktop/play-here/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroApplication.java
-/Users/nag/Desktop/play-here/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroResource.java
-/Users/nag/Desktop/play-here/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/health/PingHeroResourceHealthCheck.java
-/Users/nag/Desktop/play-here/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroApplicationLifeCycle.java
-/Users/nag/Desktop/play-here/quarkus-workshop-super-heroes/super-heroes/rest-hero/src/main/java/io/quarkus/workshop/superheroes/hero/HeroService.java
